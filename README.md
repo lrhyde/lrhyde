@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi!!
 
 
-My name is Lauren Hyde, and I'm a computer science student in UIUC's Grainger School of Engineering. I have experience in many different areas of computer science, but my particular areas of interest are data science and web app development. I'm working on various personal projects in web development which are posted here on GitHub.
+My name is Lauren Hyde, and I'm a computer science student in UIUC's Grainger School of Engineering. I have experience in many different areas of computer science, but my particular areas of interest are web app development and data science. I'm currently a software developer for Hack4Impact UIUC on the Inclusive STEM project, and am also working on various personal and extracurricular CS projects which are posted here on GitHub.
 
 Learn more about me at https://www.linkedin.com/in/lauren-hyde05 or via my portfolio website, http://lrhyde.github.io
 
