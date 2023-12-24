@@ -1,3 +1,6 @@
+![image](https://github.com/lrhyde/lrhyde/assets/126986154/b75a7d03-fdb0-4ea6-8683-5d9cf5a8a28c)
+
+
 ### Hi!!
 
 
@@ -9,7 +12,75 @@
 
 Learn more about me at https://www.linkedin.com/in/lauren-hyde05 or via my portfolio website, http://lrhyde.github.io
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&langs_count=8&size_weight=0.3&count_weight=0.7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech I've worked with
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<a href="https://www.typescriptlang.org/" title="Typescript"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px"
+        height="30px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://reactjs.org/" title="React"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.python.org/" title="Python"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://isocpp.org/" title="C++"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.w3.org/TR/html5/" title="HTML5"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px"></a>
+    <a href="https://nodejs.org/" title="Node.js"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="28px"
+        height="28px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.r-project.org/" title="R"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://expressjs.com/" title="Express"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.java.com/" title="Java"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="28px"
+        height="28px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://pandas.pydata.org/" title="pandas"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="28px"
+        height="28px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.mongodb.org/" title="MongoDB"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="28px"
+        height="28px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://opencv.org/" title="OpenCV"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://dev.mysql.com/" title="MySQL"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://git-scm.com/" title="Git"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg"
+        alt="npm" width="30px" height="30px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg"
+        alt="Vite" width="30px" height="30px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://handlebarsjs.com/" title="Handlebars"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="Handlebars" width="28px"
+        height="28px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://www.sqlite.org/" title="SQLite"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg" alt="SQLite" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg"
+        alt="Jest" width="30px" height="30px" style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://numpy.org/" title="NumPy"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://eslint.org/" title="ESLint"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="30px" height="30px"
+        style="padding-right: 2px; padding-left: 2px;"></a>
+    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img
+        src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code"
+        width="30px" height="30px" style="padding-right: 2px; padding-left: 2px;"></a>
