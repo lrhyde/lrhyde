@@ -8,7 +8,7 @@
 
 💛 I'm currently a developer for the [Illinois Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and a software engineer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). 
 
-📘 I'm also working on various personal and extracurricular CS projects which will be posted here on GitHub! In particular, I'm working on the Advent of Code, and you can track my progress in the pinned repo :)
+📘 I'm also working on various personal and extracurricular CS projects which will be posted here on GitHub! 
 
 Learn more about me at https://www.linkedin.com/in/lauren-hyde05 or via my portfolio website, http://lrhyde.github.io
 
