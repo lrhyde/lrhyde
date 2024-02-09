@@ -6,11 +6,11 @@
 
 🌸 My name is Lauren Hyde, and I'm a computer science student in UIUC's Grainger School of Engineering. 
 
-💛 I'm currently a developer for the [Illinois Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and a software engineer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). 
+💛 I'm currently a developer for the [Illinois Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and [MicroCredentials at Illinois](https://d7.cs.illinois.edu/projects/microcredentials-at-illinois/) with the d7 Research Group, and a software engineer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/) on the OpenAQ project. 
 
-📘 I'm also working on various personal and extracurricular CS projects which will be posted here on GitHub! 
+📘 I'm also working on various personal and curricular CS projects which will be posted here on GitHub! 
 
-Learn more about me at https://www.linkedin.com/in/lauren-hyde05 or via my portfolio website, http://lrhyde.github.io
+Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lauren-hyde05)!
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
