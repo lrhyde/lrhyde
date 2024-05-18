@@ -6,9 +6,9 @@
 
 🌸 My name is Lauren Hyde, and I'm a computer science student in UIUC's Grainger School of Engineering. 
 
-💛 I'm currently a developer for the [Illinois Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and [MicroCredentials at Illinois](https://d7.cs.illinois.edu/projects/microcredentials-at-illinois/) with the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/), and volunteering at [Hack4Impact UIUC](https://uiuc.hack4impact.org/) on the OpenAQ project. 
+☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and [MicroCredentials at Illinois](https://d7.cs.illinois.edu/projects/microcredentials-at-illinois/) projects, and also volunteer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). 
 
-📘 I'm also working on various personal and curricular CS projects which will be posted here on GitHub! 
+💙 This summer I'll be working as a Software Engineering Intern at PayPal!
 
 Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lauren-hyde05)!
 
@@ -27,10 +27,10 @@ Learn more about me and my work via my [portfolio website](http://lrhyde.github.
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://opencv.org/" title="OpenCV"><img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
