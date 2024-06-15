@@ -8,7 +8,7 @@
 
 ☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and [MicroCredentials at Illinois](https://d7.cs.illinois.edu/projects/microcredentials-at-illinois/) projects, and also volunteer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). 
 
-💙 This summer I'll be working as a Software Engineering Intern at PayPal!
+💙 This summer I'll be working as a Software Engineering Intern at PayPal on the compliance team!
 
 Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lauren-hyde05)!
 
