@@ -4,16 +4,16 @@
 ### Hi!!
 
 
-🌸 My name is Lauren Hyde, and I'm a computer science student in UIUC's Grainger School of Engineering. 
+🌸 My name is Lauren, and I'm a computer science student in UIUC's Grainger School of Engineering. 
 
-☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and [MicroCredentials at Illinois](https://d7.cs.illinois.edu/projects/microcredentials-at-illinois/) projects, and also volunteer at [Hack4Impact UIUC](https://uiuc.hack4impact.org/). 
+☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/) and [MicroCredentials at Illinois](https://d7.cs.illinois.edu/projects/microcredentials-at-illinois/) projects, and also volunteer at [Hack4Impact](https://uiuc.hack4impact.org/). 
 
-💙 This summer I'll be working as a Software Engineering Intern at PayPal on the compliance team!
+💙 This summer I'm working as a Software Engineering Intern at PayPal on the enterprise compliance solutions team!
 
 Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lauren-hyde05)!
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### Tech I've worked with
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="28px" height="28px"  style="padding-right: 2px; padding-left: 2px;"></a>
