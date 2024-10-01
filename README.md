@@ -6,7 +6,7 @@
 
 🌸 My name is Lauren, and I'm a computer science student in UIUC's Grainger School of Engineering. 
 
-☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/) project, and also volunteer at [Hack4Impact](https://uiuc.hack4impact.org/). 
+☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) and also volunteer at Hack4Impact on the [Dyslexico](https://dyslexi.co/) project.
 
 💙 Over the summer, I was a Software Engineering Intern at PayPal on the enterprise compliance solutions team.
 
