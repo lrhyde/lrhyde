@@ -1,19 +1,21 @@
 ![image](https://github.com/lrhyde/lrhyde/assets/126986154/b75a7d03-fdb0-4ea6-8683-5d9cf5a8a28c)
 
 
-### Hi!!
+### Hi!! :)
 
 
 🌸 My name is Lauren, and I'm a computer science student in UIUC's Grainger School of Engineering. 
 
-☀️ At UIUC, I work as a developer for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) and also volunteer at Hack4Impact on the [Dyslexico](https://dyslexi.co/) project.
+☀️ At UIUC, I work for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) as a developer on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/), and also volunteer at Hack4Impact on the [Dyslexico](https://dyslexi.co/) mobile project.
 
 💙 Over the summer, I was a Software Engineering Intern at PayPal on the enterprise compliance solutions team.
 
 Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lrhyde2)!
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!---
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=4&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lrhyde&theme=transparent&text_color=000000&title_color=000000&langs_count=4&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+--->
 
 ### Tech I've worked with
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
@@ -44,12 +46,6 @@ Learn more about me and my work via my [portfolio website](http://lrhyde.github.
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://handlebarsjs.com/" title="Handlebars"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="Handlebars" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://sequelizejs.com/" title="Sequelize"><img src="https://github.com/get-icon/geticon/raw/master/icons/sequelize.svg" alt="Sequelize" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://www.sqlite.org/" title="SQLite"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg" alt="SQLite" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="Arduino" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://www.atlassian.com/software/confluence" title="Confluence"><img src="https://github.com/get-icon/geticon/raw/master/icons/confluence.svg" alt="Confluence" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
