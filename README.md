@@ -1,14 +1,14 @@
 ![image](https://github.com/lrhyde/lrhyde/assets/126986154/b75a7d03-fdb0-4ea6-8683-5d9cf5a8a28c)
 
 
-### Hi!! :)
+### Hi! :)
 
 
 🌸 My name is Lauren, and I'm a computer science student in UIUC's Grainger School of Engineering. 
 
-☀️ At UIUC, I work for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) as a developer on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/), and also volunteer at Hack4Impact on the [Dyslexico](https://dyslexi.co/) mobile project.
+🌽 At UIUC, I work for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) as a developer on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/), and also volunteer at Hack4Impact!
 
-💙 Over the summer, I was a Software Engineering Intern at PayPal on the enterprise compliance solutions team.
+💙 Last summer, I was a Software Engineering Intern at PayPal on the enterprise compliance solutions team.
 
 Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lrhyde2)!
 
@@ -37,7 +37,6 @@ Learn more about me and my work via my [portfolio website](http://lrhyde.github.
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://opencv.org/" title="OpenCV"><img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
-<a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="24px" height="24px"  style="padding-right: 2px; padding-left: 2px;"></a>
