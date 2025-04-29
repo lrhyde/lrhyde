@@ -8,7 +8,7 @@
 
 🌽 At UIUC, I work for the [d7 Research Group](https://d7.cs.illinois.edu/visualizations/) as a developer on the [Data Science Mastery Platform](https://mastery.cs.illinois.edu/), and also volunteer at Hack4Impact!
 
-💙 Last summer, I was a Software Engineering Intern at PayPal on the enterprise compliance solutions team.
+🏙️ This summer, I'll be working at Apple as a Software Engineering Intern at their Austin, TX office. 
 
 Learn more about me and my work via my [portfolio website](http://lrhyde.github.io), and feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/lrhyde2)!
 
